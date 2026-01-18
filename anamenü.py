@@ -13,8 +13,18 @@ def anamenü():
 
     seçim=input()
 
-    if seçim == "1":pass
-    if seçim == "2":pass
-    if seçim == "3":pass
-    if seçim == "4":pass
-    
+    if seçim == "1":
+        import modüller.ogrenciekle
+        modüller.ogrenciekle.ogrencieklemenü()
+    if seçim == "2":
+        import modüller.kayıtlistele
+        modüller.kayıtlistele.kayıtlistele()
+    if seçim == "3":
+        import modüller.kayıtlarıdüzelt
+        modüller.kayıtlarıdüzelt.kayıtlarduzelt()
+    if seçim == "4":
+        import modüller.ogrencisil
+        modüller.ogrencisil.ogrencisil()
+    anamenü()
+
+anamenü()

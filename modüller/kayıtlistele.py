@@ -1,0 +1,7 @@
+def kayıtlistele():
+
+    dosya = open("rehber.dat")
+    print(" KAYIT LİSTESİ ")
+    print("===============")
+    okunan = dosya.read()
+    print(okunan)
