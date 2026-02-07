@@ -3,7 +3,7 @@
 
 ##  anamenü
 <br>
-<img height="200px" src="resimler/Anamenü.png" />
+<img height="200px" src="resimler/anamenü.png" />
 <br>
 Ana menüde projemin içinde geçenler yer alıyor
 <br>
