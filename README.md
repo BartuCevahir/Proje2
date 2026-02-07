@@ -7,21 +7,21 @@
 <br>
 Ana menüde projemin içinde geçenler yer alıyor
 <br>
-###Öğrenci ekleme yolumuz bu şekilde.
+Öğrenci ekleme yolumuz bu şekilde.
 <br>
 <img height="200px" src="resimler/öğrenciekle.png" />
 <br>
-###Kayıtları listele yolumuz bu şekilde.
+Kayıtları listele yolumuz bu şekilde.
 <br>
 <img height="200px" src="resimler/kayıtlistesi.png" />
 <br>
-### Kayıtları düzenleme yolumuz bu şekilde.
+Kayıtları düzenleme yolumuz bu şekilde.
 <br>
 <img height="200px" src="resimler/düzelt.png" />
 <br>
 abcd isimli girişin telefon numarasını değiştirdik...
 <br>
-###Öğrenci silme yolumuz bu şekilde.
+Öğrenci silme yolumuz bu şekilde.
 <br>
 <img height="200px" src="resimler/sil.png" />
 <br>
